@@ -16,16 +16,16 @@
 
 # Usage
        
-      _ \        __ \  __ \               ___|           _)       |   
-     |   | |   | |   | |   |  _ \   __| \___ \   __|  __| | __ \  __|  
-     ___/  |   | |   | |   | (   |\__ \       | (    |    | |   | |   
-    _|    \__, |____/ ____/ \___/ ____/ _____/ \___|_|   _| .__/ \__|  
-           ____/                                            _|         
+___________   ___.           __   .__          ________  ________          _________
+\__    ___/___\_ |__   ____ |  | _|__|         \______ \ \______ \   ____ /   _____/
+  |    | /  _ \| __ \ /  _ \|  |/ /  |  ______  |    |  \ |    |  \ /  _ \\_____  \ 
+  |    |(  <_> ) \_\ (  <_> )    <|  | /_____/  |    `   \|    `   (  <_> )        \
+  |____| \____/|___  /\____/|__|_ \__|         /_______  /_______  /\____/_______  /
+                   \/            \/                    \/        \/              \/          
                                                                
-        DDos python script | Script used for testing ddos | Ddos attack     
-         Author: ___T7hM1___                                                
-         Github: http://github.com/t7hm1/pyddos                             
-        Version:3.0 
+       Tập lệnh python DDos | Tập lệnh dùng để kiểm tra ddos | Tấn công Ddos         
+       Chủ sở hữu: --Hxb.Design--                                                
+       Coder By:'''+Hồ Xuân Bình+''' 
 
     usage: python3 pyddos.py -t [target] -p [port] -t [number threads]
 
